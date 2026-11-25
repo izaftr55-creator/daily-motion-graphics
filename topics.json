@@ -1,0 +1,111 @@
+[
+  {
+    "slug": "semua-planet-muat",
+    "skill": "kurzgesagt",
+    "spec": {
+      "lines": ["Muatkah semua planet", "di antara Bumi dan Bulan?", "Saat terjauh, muat semua!"],
+      "tag": "Semua planet muat"
+    },
+    "title": "Muatkah Semua Planet Tata Surya di Antara Bumi dan Bulan?",
+    "caption": "Saat Bulan berada di titik terjauhnya dari Bumi (sekitar 406.700 km), ketujuh planet lain—dari Merkurius sampai Neptunus—ternyata bisa berjajar di antara keduanya!",
+    "hashtags": "#FaktaSains #TataSurya #EdukasiSingkat #Astronomi #FaktaUnik"
+  },
+  {
+    "slug": "pertumbuhan-internet-dunia",
+    "skill": "graph",
+    "spec": {
+      "label": "Pengguna Internet Dunia (Miliar)",
+      "values": [0.4, 1.0, 2.0, 3.0, 4.1, 4.9, 5.4],
+      "labels": ["2000", "2005", "2010", "2015", "2019", "2021", "2024"],
+      "final": 5.4,
+      "suffix": "B",
+      "decimals": 1,
+      "dark": true
+    },
+    "title": "Dari 400 Juta ke 5,4 Miliar Pengguna Internet dalam 24 Tahun!",
+    "caption": "Tahukah kamu? Di tahun 2000, kurang dari 7% penduduk Bumi terhubung ke internet. Sekarang sudah lebih dari 5,4 miliar orang terhubung setiap hari.",
+    "hashtags": "#FaktaTeknologi #DataMenarik #EdukasiSingkat #SejarahInternet #Infografis"
+  },
+  {
+    "slug": "konsisten-satu-persen",
+    "skill": "minimalistic-graphics",
+    "spec": {
+      "lines": ["1% lebih baik setiap hari.", "37x lebih kuat dalam setahun."],
+      "steps": 6,
+      "light": false
+    },
+    "title": "Efek Majemuk 1% Lebih Baik Setiap Hari",
+    "caption": "Perubahan kecil sering terasa tidak terlihat di minggu pertama. Tapi 1,01 pangkat 365 hasilnya 37,78 kali lipat dalam setahun!",
+    "hashtags": "#EdukasiHarian #MatematikaHidup #PengembanganDiri #FaktaMenarik #MotionGraphics"
+  },
+  {
+    "slug": "satu-keputusan-bercabang",
+    "skill": "dan-koe",
+    "spec": {
+      "lines": ["Satu pilihan kecil.", "Mengubah ribuan jalur."],
+      "depth": 9,
+      "seed": 5,
+      "light": false
+    },
+    "title": "Bagaimana Satu Keputusan Kecil Membentuk Masa Depan?",
+    "caption": "Dalam teori sistem kompleks, satu pilihan kecil di awal bisa bercabang menjadi ribuan kemungkinan baru seiring waktu. Jangan remehkan langkah pertamamu hari ini.",
+    "hashtags": "#FilosofiSains #EdukasiSingkat #Mindset #EfekKupuKupu #FaktaMenarik"
+  },
+  {
+    "slug": "populasi-manusia-melonjak",
+    "skill": "graph",
+    "spec": {
+      "label": "Populasi Manusia di Bumi (Miliar)",
+      "values": [1.0, 1.6, 2.5, 4.4, 6.1, 7.8, 8.1],
+      "labels": ["1800", "1900", "1950", "1980", "2000", "2020", "2024"],
+      "final": 8.1,
+      "suffix": "B",
+      "decimals": 1,
+      "dark": false
+    },
+    "title": "Butuh Ribuan Tahun ke 1 Miliar, Lalu Hanya 200 Tahun ke 8 Miliar!",
+    "caption": "Populasi manusia mencapai 1 miliar pertama sekitar tahun 1804. Berkat sanitasi modern, vaksin, dan teknologi pangan, kini Bumi dihuni lebih dari 8,1 miliar jiwa.",
+    "hashtags": "#FaktaDunia #SejarahManusia #EdukasiSingkat #SainsPopuler #Infografis"
+  },
+  {
+    "slug": "efisiensi-energi-led",
+    "skill": "graph",
+    "spec": {
+      "label": "Efisiensi Cahaya Lampu (Lumen/Watt)",
+      "values": [12, 18, 55, 90, 130, 160],
+      "labels": ["Pijar", "Halogen", "Neon", "CFL", "LED", "LED Pro"],
+      "final": 160,
+      "suffix": " lm/W",
+      "decimals": 0,
+      "dark": true
+    },
+    "title": "Kenapa Lampu LED Jauh Lebih Hemat Listrik?",
+    "caption": "Lampu pijar lama membuang hampir 90% energinya jadi panas. Lampu LED modern menghasilkan cahaya lebih dari 10 kali lebih efisien per watt!",
+    "hashtags": "#FaktaFisika #EnergiHemat #SainsSehariHari #EdukasiSingkat #Teknologi"
+  },
+  {
+    "slug": "belajar-bertahap-setiap-hari",
+    "skill": "minimalistic-graphics",
+    "spec": {
+      "lines": ["Setiap langkah terasa kecil.", "Sampai kamu menoleh ke belakang."],
+      "steps": 5,
+      "light": true
+    },
+    "title": "Kenapa Otak Butuh Pengulangan Bertahap?",
+    "caption": "Penelitian memori menunjukkan belajar 15 menit per hari jauh lebih efektif memperkuat sinapsis otak dibanding begadang 5 jam sekaligus!",
+    "hashtags": "#FaktaOtak #PsikologiBelajar #EdukasiSingkat #Produktivitas #Sains"
+  },
+  {
+    "slug": "jaringan-saraf-otak",
+    "skill": "dan-koe",
+    "spec": {
+      "lines": ["86 miliar neuron.", "Terhubung lewat kebiasaan."],
+      "depth": 8,
+      "seed": 12,
+      "light": true
+    },
+    "title": "Rahasia 86 Miliar Neuron di Otak Manusia",
+    "caption": "Setiap kali kamu melatih skill baru, jalur listrik antar neuron di otak makin kuat dan cepat—fenomena ini disebut neuroplastisitas!",
+    "hashtags": "#Neurosains #FaktaOtak #EdukasiSingkat #SainsPopuler #Belajar"
+  }
+]
